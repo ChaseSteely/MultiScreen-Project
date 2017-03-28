@@ -1,0 +1,24 @@
+#container{
+    margin: 3px;
+}
+
+#title {
+    text-align: center;
+}
+
+#mount {
+    display: block;
+    margin: auto;
+    width: 100%;
+    align-content: center;
+    max-width: 320px;
+}
+
+#heading {
+    text-align: center;
+}
+
+#lMount {
+    width: 100%;
+}
+
